@@ -1,4 +1,4 @@
-# A simple client-server-based demo using jsonrpc4j implements json rpc
+# A simple client-server-based demo implements json rpc using jsonrpc4j.
 ### Usage:
 
 1. Run `HttpServer.java` to boot the rpc server
