@@ -7,8 +7,8 @@ import java.util.Map;
 import com.googlecode.jsonrpc4j.JsonRpcHttpClient;
 import com.hjc.demo.DemoBean;
 
-public class JsonRpcTest {
-	public JsonRpcTest() {
+public class RpcClient {
+	public RpcClient() {
 	}
 
 	public static void main(String[] args) throws Throwable {
